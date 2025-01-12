@@ -3,9 +3,9 @@
 #### Project Structure ###
 
 ```bash
-    myproject/
+    djanngo_fastapi_project/
     │
-    ├── myproject/
+    ├── djanngo_fastapi_project/
     │   ├── __init__.py
     │   ├── settings.py
     │   ├── urls.py
