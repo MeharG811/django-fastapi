@@ -2,7 +2,7 @@
 
 #### Project Structure ###
 
-```http
+```bash
     myproject/
     │
     ├── myproject/
