@@ -56,13 +56,13 @@
 
 ### Refrences
 
-```bash
+```https
 
 https://sunscrapers.com/blog/fastapi-and-django-a-guide-to-elegant-integration/
 
 ```
 
-```bash
+```https
 
 https://www.stavros.io/posts/fastapi-with-django/
 
