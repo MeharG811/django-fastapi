@@ -46,7 +46,7 @@
     pytest
 ```
 
-#### other commands
+#### Other Commands
 
 ```bash
     python manage.py makemigrations
@@ -54,5 +54,16 @@
     uvicorn main:app --reload --host 0.0.0.0 --port 9000
 ```
 
+### Refrences
 
+```bash
 
+https://sunscrapers.com/blog/fastapi-and-django-a-guide-to-elegant-integration/
+
+```
+
+```bash
+
+https://www.stavros.io/posts/fastapi-with-django/
+
+```
